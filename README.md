@@ -77,7 +77,7 @@ Add real screenshots taken from the app, save them in a `screenshots/` folder, t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/FinTrack-AI-Assisted-Android.git
+   git clone https://github.com/Narain0024/FinTrack-AI-Assisted-Android.git
    ```
 2. In Android Studio choose **File > Open** and select the project folder (the one containing `settings.gradle.kts`). Trust the project and wait for Gradle sync to finish.
 3. Run the unit tests: right-click `app/src/test/java/com/fintrack/app/domain` and choose **Run Tests**.
